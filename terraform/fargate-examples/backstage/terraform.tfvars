@@ -9,5 +9,5 @@ postgresdb_master_password = "postgresdb_passwd"
 
 # Repository information for your backstage application
 # repository_owner           = "joozero"
-# repository_name            = "ecs-blueprint"
+# repository_name            = "ecs-blueprints"
 repository_branch          = "main"

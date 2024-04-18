@@ -1,11 +1,13 @@
 variable "repository_owner" {
   description = "The name of the owner of the Github repository"
   type        = string
+  default     = "joozero"
 }
 
 variable "repository_name" {
   description = "The name of the Github repository"
   type        = string
+  default     = "ecs-blueprints"
 }
 
 variable "repository_branch" {
